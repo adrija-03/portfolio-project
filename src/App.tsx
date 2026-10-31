@@ -1,9 +1,12 @@
 import './App.css'
+import Project from './components/Projects'
 
 function App() {
 
   return (
-    <div>Portfolio</div>
+    <div>
+      <Project/>
+    </div>
   )
 }
 
